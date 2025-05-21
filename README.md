@@ -31,3 +31,11 @@ green | 0x0000ff | my color
 purple | 0xffaa | purple
 orange | 0xffbb | orange
 pink | 0xffcc | pink  
+
+<a href="https://www.facebook.com/LarsonIpPc" target="_blank">https://www.facebook.com/LarsonIpPc</a>
+ 
+[gothere](https://www.nicrosoft.com)
+
+- 🌱 I’m currently training on [GitHub Course][website]
+
+[website]: https://www.microsoft.com
