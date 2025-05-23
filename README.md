@@ -1,41 +1,40 @@
 # Olivia Thomas
+Softwear Engineering and Creative Design.
+
 ## Contact Information
-**Karl Larson _yeah baby_**<br/>
-*email*
-## Front End Skills
-## Back End Skills
-##
+[oliviamthomas.com](oliviamthomas.com)<br>
+*omthomas@yahoo.com*
 
-**Karl Larson _yeah baby_**
-- [Java](https://docs.oracle.com/en/java/)
-- Javascript
-- HTML
-- [Python](https://docs.python.org/3/)
-- Ruby
-# UnOrdered Items
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-# Ordered List
-1. numbered
-2. list
-   1. with sub
-   2. catagories
-# Table
-Color | RGB | Comment
-------|-----|--------
-red | 0xff0000 | don't like it
-blue | 0x00ff00 | kinda like it
-green | 0x0000ff | my color
-purple | 0xffaa | purple
-orange | 0xffbb | orange
-pink | 0xffcc | pink  
+## Technical Skills
+- **Languages:** Javascript, HTML, CSS, Boostrap, Python, Ruby
+- **Technologies:** Git, GitHub, Postman, Visual Studio Code, WordPress
+- **Design Programs:** Illustrator, Photoshop, InDesign, Final Cut, PremierPro, Draw.io
+- **Functional:** Wireframes, User Stories, UX and UI
 
-<a href="https://www.facebook.com/LarsonIpPc" target="_blank">https://www.facebook.com/LarsonIpPc</a>
- 
-[gothere](https://www.nicrosoft.com)
+## Social Skills
+- Conference and Convention Planning and Hosting
+- Excells in group work
+- Hard working
+- Follows directions well
+- Fast learner
+- Resourceful; if I don't have the answer I can and will find it
 
-- 🌱 I’m currently training on [GitHub Course][website]
+## Experience
+- Priority OnDemand - October 2021 to present<br>
+  *Communications and Marketing Specialist*
+  - Web design and managment across 25 sites
+  - Graphic Desing
+  - Technical Wrighting
+- National Association of Agricultural Educators - August 2019 to September 2021<br>
+  *Communications and Marketing Specialist*
+  - Web design and managment across 25 sites
+  - Graphic Desing
+  - Technical Wrighting
+  - Listserv Newsletters
 
-[website]: https://www.microsoft.com
+## Education
+- University of Tennessee Technicall Bootcamp
+  - Hosted by Quickstart
+  - Software Enginerring Program
+- Texas Tech University
+  - Agricultural Communications BS
