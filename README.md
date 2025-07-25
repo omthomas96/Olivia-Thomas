@@ -2,7 +2,6 @@
 Softwear Engineering and Creative Design.
 
 ## Contact Information
-[oliviamthomas.com](oliviamthomas.com)<br>
 *omthomas@yahoo.com*
 
 ## Technical Skills
